@@ -23,7 +23,7 @@ https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
 **Web Portal Link:**<br>
 https://www.contextures.com/xlsampledata01.html
 
-**SharePoint Site Link:**<br>
+**SharePoint Site Link for OnLine List: (List_Project_Tasks)**<br>
 https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
 
 **SQL Server Database:**<br>
@@ -35,7 +35,6 @@ https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
 * Data Fetching –
   *	Direct Query - select * from dbo.registration
   *	Import
-
 
 **Tutorial and Official Documentation on MS-Power BI Link:**<br>
 https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
