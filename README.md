@@ -23,6 +23,9 @@ https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
 **Web Portal Link:**<br>
 https://www.contextures.com/xlsampledata01.html
 
+**SharePoint Site Link:**<br>
+https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
+
 **SQL Server Database:**<br>
 *	Server - Sqlplesk7.securehostdns.com,1234
 *	user id – codingskills
