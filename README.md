@@ -23,6 +23,17 @@ https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
 **Web Portal Link:**<br>
 https://www.contextures.com/xlsampledata01.html
 
+**SQL Server Database:**<br>
+*	Server - Sqlplesk7.securehostdns.com,1234
+*	user id – codingskills
+* password - Babi@2292
+* database - codingskills
+* Sample Table - registration, seminar, colleges
+* Data Fetching –
+  *	Direct Query - select * from dbo.registration
+  *	Import
+
+
 **Tutorial and Official Documentation on MS-Power BI Link:**<br>
 https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
 
