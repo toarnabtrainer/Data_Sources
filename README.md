@@ -7,12 +7,10 @@ https://tinyurl.com/yc7czrzr<br>
 
 **Online Session MS-Teams Link for all sessions:**<br>
 **Training link for Morning Batch - 1:**<br>
-* https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzM2NjFjY2YtNDZhYy00ZDc0LTg3MzAtYmM4MDY1YmNlNzBi%40thread.v2/0?context=%7b%22Tid%22%3a%22ae6b1153-fd4c-4df1-8e27-fb0356c98817%22%2c%22Oid%22%3a%220dd286f1-facc-4c2b-8c8d-2b8431f8dddf%22%7d
-* https://tinyurl.com/56zj42ys
+* https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTJjMzNlYzktODllMi00YjU0LTk0OWQtZDA2MjQ3ODU3NmM1%40thread.v2/0?context=%7b%22Tid%22%3a%22ae6b1153-fd4c-4df1-8e27-fb0356c98817%22%2c%22Oid%22%3a%220dd286f1-facc-4c2b-8c8d-2b8431f8dddf%22%7d
 
 **Training link for Afternoon Batch - 2:**
-* https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzc2ZjU5YmUtYWVjZi00M2VkLTk3NDgtNjY2MjUzYmJhYmY3%40thread.v2/0?context=%7b%22Tid%22%3a%22ae6b1153-fd4c-4df1-8e27-fb0356c98817%22%2c%22Oid%22%3a%220dd286f1-facc-4c2b-8c8d-2b8431f8dddf%22%7d
-* https://tinyurl.com/bddm7yhj
+* https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzViNTI4NDktMWI2Mi00ODYzLWFmY2EtMjUxZjRhODlmOGQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22ae6b1153-fd4c-4df1-8e27-fb0356c98817%22%2c%22Oid%22%3a%220dd286f1-facc-4c2b-8c8d-2b8431f8dddf%22%7d
 
 **PowerBI Download Link:**<br>
 https://www.microsoft.com/en-us/download/details.aspx?id=58494
