@@ -37,6 +37,25 @@ https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
 **Tutorial and Official Documentation on MS-Power BI Link:**<br>
 https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
 
+**MS-Power BI Data Compresion Capability:**<br>
+* **PracticeData1.xlsx ->** Size 705 KB
+* **ClassWork.pbix (After all data import) ->** Size 64 KB
+* **ClassWork.pbix (After Unpivot) ->** Size 56 KB
+* **ClassWork.pbix (After Country_Sales Query creation) ->** Size 61 KB
+* **ClassWork.pbix (After Total_Sales_PQEW) ->** Size 65 KB
+* **ClassWork.pbix (After Total_Sales_PBIDW) ->** Size 66 KB
+* **ClassWork.pbix (After Total_Sales measure creation) ->** Size 66 KB
+* **ClassWork.pbix (After Total_Sales_Measure column creation) ->** Size 67 KB
+
+**Table Formats:**<br>
+<pre>
+* Wide Format (Unstacked Format) ------------------------> Long Format (Stacked Format)
+                                     Unpivot Operation
+
+* Long Format (Stacked Format) ------------------------> Wide Format (Unstacked Format)
+                                     Pivot Operation
+</pre>
+
 **Lookup and Dimension Tables**<br>
 Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
 Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
