@@ -69,7 +69,10 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 * **Query-3:** Against all products, display discount amount and discounted price. Fill with 0 where discount % is null.
 * **Query-4:** List those category details which has no product.
 
-**Data Relationships for the Budget Project**<br>
+**Relationship MS-PowerBI Tutorial Link:** <br>
+https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-create-and-manage-relationships
+
+**Data Relationships for the Budget Project:**<br>
 * Sales(CustomerKey) -> Customer(CustomerKey)<br>
 * Sales(OrderDate) -> Calendar(Date)<br>
 * Sales(ProductKey) -> Product(ProductKey)<br>
