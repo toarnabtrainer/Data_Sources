@@ -5,7 +5,7 @@ https://github.com/toarnabtrainer/Excel_PowerBI_Tableau_Data_Sources/<br>
 or<br>
 https://tinyurl.com/yc7czrzr<br>
 
-**HTML Coloe Codes:**<br>
+**HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
 **PowerBI Download Link:**<br>
