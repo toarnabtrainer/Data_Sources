@@ -60,9 +60,6 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
                                      Pivot Operation
 </pre>
 
-**Tutorial and Official Documentation on MS-Power BI Link:**<br>
-https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
-
 **Lookup and Dimension Tables**<br>
 Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
 Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
@@ -72,9 +69,6 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 * **Query-2:** List only those discounted product details along with discount amount and discounted price.
 * **Query-3:** Against all products, display discount amount and discounted price. Fill with 0 where discount % is null.
 * **Query-4:** List those category details which has no product.
-
-**Relationship MS-PowerBI Tutorial Link:** <br>
-https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-create-and-manage-relationships
 
 **Data Relationships for the Budget Project:**<br>
 * Sales(CustomerKey) -> Customer(CustomerKey)<br>
