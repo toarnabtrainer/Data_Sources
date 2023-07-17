@@ -1,7 +1,7 @@
 # Excel_PowerBI_Tableau_Data_Sources
 
 **GitHub Link:**<br>
-https://github.com/toarnabtrainer/Excel_PowerBI_Tableau_Data_Sources/<br>
+https://github.com/toarnabtrainer/Data_Sources/<br>
 or<br>
 https://tinyurl.com/yc7czrzr<br>
 
