@@ -37,6 +37,9 @@ https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
 * Data Fetching –
   *	Direct Query - select * from dbo.registration
   *	Import
+ 
+**Web Link for PDF:**<br>
+https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
 
 **Tutorial and Official Documentation on MS-Power BI Link:**<br>
 https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
