@@ -80,3 +80,10 @@ Delete promote header, Delete first 3 rows as they are null, Promote first row a
 * Sales(SalesTerritoryKey) -> Territories(SalesTerritoryKey)<br>
 * Budget(ProdyctKey) -> Product(ProductKey)<br>
 * Budget(Month) -> Calendar(Date)<br>
+
+**Suggested Tables Summaries (After filtering on Year 2016):**<br>
+*	**Table1:** Calendar[Year], Calendar[Month], Sum of Sales[SalesAmount] 
+*	**Table2:** Calendar[Year], Calendar[Month], Sum of Budget[BudgetAmount]
+*	**Table3:** Territories[Country], Sum of Sales[SalesAmount]
+*	**Table4:** Calendar[Year], Calendar[Month], Sum of Sales[SalesAmount], Sum of Budget[BudgetAmount]
+
