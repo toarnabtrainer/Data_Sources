@@ -70,6 +70,9 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 * **Query-3:** Against all products, display discount amount and discounted price. Fill with 0 where discount % is null.
 * **Query-4:** List those category details which has no product.
 
+**Operations on Budget Workbook:**<br>
+Delete promote header, Delete first 3 rows as they are null, Promote first row as heading, Delete last total column, delete rows whose first column is containing “Total”, Unpivot month labelled rows, Change the data type of month column to date, Rename columns (Month and BudgetAmount), Select close and apply.<br>
+
 **Data Relationships for the Budget Project:**<br>
 * Sales(CustomerKey) -> Customer(CustomerKey)<br>
 * Sales(OrderDate) -> Calendar(Date)<br>
