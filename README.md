@@ -78,7 +78,7 @@ Delete promote header, Delete first 3 rows as they are null, Promote first row a
 * Sales(OrderDate) -> Calendar(Date)<br>
 * Sales(ProductKey) -> Product(ProductKey)<br>
 * Sales(SalesTerritoryKey) -> Territories(SalesTerritoryKey)<br>
-* Budget(ProdyctKey) -> Product(ProductKey)<br>
+* Budget(ProductKey) -> Product(ProductKey)<br>
 * Budget(Month) -> Calendar(Date)<br>
 
 **Suggested Tables Summaries (After filtering on Year 2016):**<br>
