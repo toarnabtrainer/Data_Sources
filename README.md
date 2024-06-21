@@ -60,15 +60,15 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
                                      Pivot Operation
 </pre>
 
-**Lookup and Dimension Tables**<br>
-Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
-Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
-
 **Assignment on Merge operations:**<br>
 * **Query-1:** List those product details which has no discount.
 * **Query-2:** List only those discounted product details along with discount amount and discounted price.
 * **Query-3:** Against all products, display discount amount and discounted price. Fill with 0 where discount % is null.
 * **Query-4:** List those category details which has no product.
+
+**Lookup and Dimension Tables**<br>
+Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
+Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
 
 **Operations on Budget Workbook:**<br>
 Delete promote header, Delete first 3 rows as they are null, Promote first row as heading, Delete last total column, delete rows whose first column is containing “Total”, Unpivot month labelled rows, Change the data type of month column to date, Rename columns (Month and BudgetAmount), Select close and apply.<br>
