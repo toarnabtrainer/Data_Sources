@@ -103,10 +103,10 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 
 # Different Join Operations:
 
-![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/15f25c0e-4634-4f49-bcbf-3d32f138c7ef)
+![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/5715ba40-1546-40d7-984f-3002d411cc57)
 
 <hr>
 
-![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/13a45d69-5802-49e0-b757-97ad9bfd83f0)
+![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/e2a3d88f-e1ab-4459-b1ec-28fce08a21b1)
 
 <hr>
