@@ -19,6 +19,10 @@ https://htmlcolorcodes.com/
 **PowerBI Download Link:**<br>
 https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
+**Power BI Tutorials Link:** <br>
+* **Learn Power BI:** https://powerbi.microsoft.com/en-us/learning/
+* **Power BI for Absolute Beginners:** https://www.tutorialspoint.com/power_bi/index.htm
+
 **PDF Link on the Cloud:**<br>
 https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
 
@@ -52,6 +56,7 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 * **ClassWork.pbix (After Total_Sales_Measure column creation) ->** Size 67 KB
 
 **Table Formats:**<br>
+<b>
 <pre>
 * Wide Format (Unstacked Format) ------------------------> Long Format (Stacked Format)
                                      Unpivot Operation
@@ -59,6 +64,7 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 * Long Format (Stacked Format) ------------------------> Wide Format (Unstacked Format)
                                      Pivot Operation
 </pre>
+</b>
 
 **Assignment on Merge operations:**<br>
 * **Query-1:** List those product details which has no discount.
