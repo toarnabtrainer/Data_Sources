@@ -70,8 +70,13 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
 Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
 
-**Operations on Budget Workbook:**<br>
-Delete promote header, Delete first 3 rows as they are null, Promote first row as heading, Delete last total column, delete rows whose first column is containing “Total”, Unpivot month labelled rows, Change the data type of month column to date, Rename columns (Month and BudgetAmount), Select close and apply.<br>
+**Operations on Budget Workbook:** <br>
+* Delete the promoted header
+* Delete first 3 null rows
+* Promote the first row as a header
+* Delete last total column
+* Filter out from the first column containing “Total”
+* Unpivot month columns  labelled rows, Change the data type of month column to date, Rename columns (Month and BudgetAmount), Select close and apply.<br>
 
 **Data Relationships for the Budget Project:**<br>
 * Sales(CustomerKey) -> Customer(CustomerKey)<br>
