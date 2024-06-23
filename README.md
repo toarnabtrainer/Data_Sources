@@ -75,8 +75,11 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 * Delete first 3 null rows
 * Promote the first row as a header
 * Delete last total column
-* Filter out from the first column containing “Total”
-* Unpivot month columns  labelled rows, Change the data type of month column to date, Rename columns (Month and BudgetAmount), Select close and apply.<br>
+* Filter out rows from the first column containing “Total”
+* Unpivot month columns labelled from Jan to Dec
+* Rename new created columns to Month and BudgetAmount
+* Change the data type of Month column to Date
+* Select close and apply <br>
 
 **Data Relationships for the Budget Project:**<br>
 * Sales(CustomerKey) -> Customer(CustomerKey)<br>
