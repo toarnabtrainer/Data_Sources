@@ -70,7 +70,7 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 * **Query-4:** List those category details which has no product.
 <br>**Output:** ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/6f144d15-1dd3-41e8-828e-574c07f2af75)
   
-**Lookup and Dimension Tables**<br>
+**Lookup/Dimension Tables and Data/Fact Tables:**<br>
 Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
 Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
 
