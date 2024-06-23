@@ -105,5 +105,8 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 
 ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/15f25c0e-4634-4f49-bcbf-3d32f138c7ef)
 
+<hr>
+
+![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/13a45d69-5802-49e0-b757-97ad9bfd83f0)
 
 <hr>
