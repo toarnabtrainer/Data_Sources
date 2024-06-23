@@ -87,3 +87,9 @@ Delete promote header, Delete first 3 rows as they are null, Promote first row a
 *	**Table3:** Territories[Country], Sum of Sales[SalesAmount]
 *	**Table4:** Calendar[Year], Calendar[Month], Sum of Sales[SalesAmount], Sum of Budget[BudgetAmount]
 
+<hr>
+
+![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/15f25c0e-4634-4f49-bcbf-3d32f138c7ef)
+
+
+<hr>
