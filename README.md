@@ -89,6 +89,8 @@ Delete promote header, Delete first 3 rows as they are null, Promote first row a
 
 <hr>
 
+# Different Join Operations:
+
 ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/15f25c0e-4634-4f49-bcbf-3d32f138c7ef)
 
 
