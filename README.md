@@ -62,10 +62,14 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 
 **Assignment on Merge operations:**<br>
 * **Query-1:** List those product details which has no discount.
+<br>**Output:** ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/eb4c8b10-b987-4991-904a-d34bc240cca6)
 * **Query-2:** List only those discounted product details along with discount amount and discounted price.
+<br>**Output:** ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/050f2529-37db-471f-ac10-ff18360a74a5)
 * **Query-3:** Against all products, display discount amount and discounted price. Fill with 0 where discount % is null.
+<br>**Output:** ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/a5eb2259-e78e-4a1d-94c1-18d2da8c7ffe)
 * **Query-4:** List those category details which has no product.
-
+<br>**Output:** ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/6f144d15-1dd3-41e8-828e-574c07f2af75)
+  
 **Lookup and Dimension Tables**<br>
 Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
 Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
