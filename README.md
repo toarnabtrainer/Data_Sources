@@ -26,7 +26,8 @@ https://htmlcolorcodes.com/
 https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
 
 **Web Portal Link:**<br>
-https://www.contextures.com/xlsampledata01.html
+https://www.contextures.com/xlsampledata01.html <br>
+Split OrderDate column on '/', Reorder them, Merge Columns and Convert it to Date type.
 
 **SharePoint Site Link for OnLine List: (List_Project_Tasks)**<br>
 https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
