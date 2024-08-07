@@ -21,6 +21,7 @@ https://htmlcolorcodes.com/
 * **Tutorial and Official Documentation on MS-Power BI Link:** https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
 * **Learn Power BI:** https://powerbi.microsoft.com/en-us/learning/
 * **Power BI for Absolute Beginners:** https://www.tutorialspoint.com/power_bi/index.htm
+* **Sample MS-Power BI Desktop .pbix GitHub Repository Link:** https://github.com/microsoft/powerbi-desktop-samples
 
 **PDF Link on the Cloud:**<br>
 https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
