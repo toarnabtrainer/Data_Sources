@@ -117,3 +117,9 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/e2a3d88f-e1ab-4459-b1ec-28fce08a21b1)
 
 <hr>
+
+## Towards Growth and Towards Success
+
+![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
+
+<hr>
