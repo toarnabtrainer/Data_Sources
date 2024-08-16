@@ -118,6 +118,12 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 
 <hr>
 
+# MCQ on Power BI:
+* **Test on Power BI (1):** https://bit.ly/3aFLjhC-
+* **Test on Power BI (2):** https://bit.ly/3j6P6sg-
+
+<hr>
+
 ## Towards Growth and Towards Success
 
 ![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
