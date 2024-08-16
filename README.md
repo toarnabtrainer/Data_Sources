@@ -106,7 +106,7 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 * MyBudget = SUM(Budget[BudgetAmount])
 * MySales = SUM(Sales[SalesAmount])
 * MyVariance = [MySales] - [MyBudget]
-* MyVariaance% = DIVIDE([MyVariance], [MyBudget], 0)
+* MyVariance% = DIVIDE([MyVariance], [MyBudget], 0)
 * MyComments = IF([MyVariance] < -100000, "Take Care", IF([MyVariance] < 0, "Not OK", "OK"))
 
 **Suggested Tables Summaries (After filtering on Year 2016):** <br>
