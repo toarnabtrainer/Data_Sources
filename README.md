@@ -18,7 +18,7 @@ https://htmlcolorcodes.com/
 
 **Power BI Download and Tutorial Links:**<br>
 * **PowerBI Download Link:** https://www.microsoft.com/en-us/download/details.aspx?id=58494
-* **Tutorial and Official Documentation on MS-Power BI Link:** https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
+* **Tutorial and Official Documentation on MS-Power BI Link:** https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships and https://learn.microsoft.com/en-in/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-marketing-page&culture=en-us&country=us
 * **Learn Power BI:** https://powerbi.microsoft.com/en-us/learning/
 * **Power BI for Absolute Beginners:** https://www.tutorialspoint.com/power_bi/index.htm
 * **Sample MS-Power BI Desktop .pbix GitHub Repository Link:** https://github.com/microsoft/powerbi-desktop-samples
