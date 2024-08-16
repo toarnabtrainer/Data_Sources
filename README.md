@@ -114,7 +114,7 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 *	**Table2:** Calendar[Year], Calendar[Month], Sum of Budget[BudgetAmount]
 *	**Table3:** Territories[Country], Sum of Sales[SalesAmount]
 *	**Table4:** Calendar[Year], Calendar[Month], Sum of Sales[SalesAmount], Sum of Budget[BudgetAmount]
-* **Table4:** Calendat[Year], Calendar[Month], Budget[MySales], Budget[MyBudget], Budget[MyVariance], Budget[MyVariance], Budget[MyVariance%], Budget[MyComment]
+* **Table4:** Calendat[Year], Calendar[Month], Budget[MySales], Budget[MyBudget], Budget[MyVariance], Budget[MyVariance%], Budget[MyComment]
 
 <hr>
 
