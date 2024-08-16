@@ -1,39 +1,39 @@
 # Excel_PowerBI_Tableau_Data_Sources
 
-**GitHub Link:**<br>
-https://github.com/toarnabtrainer/Data_Sources/<br>
+**GitHub Link:** <br>
+https://github.com/toarnabtrainer/Data_Sources/ <br>
 or<br>
-https://tinyurl.com/yc7czrzr<br>
+https://tinyurl.com/yc7czrzr <br>
 
-**GMeet Link:**<br>
+**GMeet Link:** <br>
 https://meet.google.com/ugx-iskt-vbc
 
-**MS-Teams Link:**<br>
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ0MWQ0MGItYzEzNS00OTdjLThlYmMtOGMzNmQ2YWUwNWIz%40thread.v2/0?context=%7b%22Tid%22%3a%22ff6114ce-6904-43f4-83a2-11ea43d58b83%22%2c%22Oid%22%3a%2240936497-561b-4e40-95f5-1655f81c8574%22%7d<br>
-Or<br>
+**MS-Teams Link:** <br>
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ0MWQ0MGItYzEzNS00OTdjLThlYmMtOGMzNmQ2YWUwNWIz%40thread.v2/0?context=%7b%22Tid%22%3a%22ff6114ce-6904-43f4-83a2-11ea43d58b83%22%2c%22Oid%22%3a%2240936497-561b-4e40-95f5-1655f81c8574%22%7d <br>
+Or <br>
 https://tinyurl.com/2s3yxjnr
 
-**HTML Color Codes:**<br>
+**HTML Color Codes:** <br>
 https://htmlcolorcodes.com/
 
-**Power BI Download and Tutorial Links:**<br>
+**Power BI Download and Tutorial Links:** <br>
 * **PowerBI Download Link:** https://www.microsoft.com/en-us/download/details.aspx?id=58494
 * **Tutorial and Official Documentation on MS-Power BI Link:** https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships and https://learn.microsoft.com/en-in/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-marketing-page&culture=en-us&country=us
 * **Learn Power BI:** https://powerbi.microsoft.com/en-us/learning/
 * **Power BI for Absolute Beginners:** https://www.tutorialspoint.com/power_bi/index.htm
 * **Sample MS-Power BI Desktop .pbix GitHub Repository Link:** https://github.com/microsoft/powerbi-desktop-samples
 
-**PDF Link on the Cloud:**<br>
+**PDF Link on the Cloud:** <br>
 https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Civillistnew.pdf
 
-**Web Portal Link:**<br>
+**Web Portal Link:** <br>
 https://www.contextures.com/xlsampledata01.html <br>
 Split OrderDate column on '/', Reorder them, Merge Columns and Convert it to Date type.
 
-**SharePoint Site Link for OnLine List: (List_Project_Tasks)**<br>
+**SharePoint Site Link for OnLine List: (List_Project_Tasks)** <br>
 https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
 
-**SQL Server Database:**<br>
+**SQL Server Database:** <br>
 *	Server - Sqlplesk7.securehostdns.com,1234
 *	user id – codingskills
 * password - Babi@2292
@@ -43,10 +43,10 @@ https://totsoltechnologies.sharepoint.com/sites/ABCofSharePoint
   *	Direct Query - select * from dbo.registration
   *	Import
 
-**Tutorial and Official Documentation on MS-Power BI Link:**<br>
+**Tutorial and Official Documentation on MS-Power BI Link:** <br>
 https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships
 
-**MS-Power BI Data Compresion Capability:**<br>
+**MS-Power BI Data Compresion Capability:** <br>
 * **PracticeData1.xlsx ->** Size 705 KB
 * **ClassWork.pbix (After all data import) ->** Size 64 KB
 * **ClassWork.pbix (After Unpivot) ->** Size 56 KB
@@ -56,7 +56,7 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 * **ClassWork.pbix (After Total_Sales measure creation) ->** Size 66 KB
 * **ClassWork.pbix (After Total_Sales_Measure column creation) ->** Size 67 KB
 
-**Table Formats:**<br>
+**Table Formats:** <br>
 <b>
 <pre>
 * Wide Format (Unstacked Format) ------------------------> Long Format (Stacked Format)
@@ -67,7 +67,7 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 </pre>
 </b>
 
-**Assignment on Merge operations:**<br>
+**Assignment on Merge operations:** <br>
 * **Query-1:** List those product details which has no discount.
 <br>**Output:** ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/eb4c8b10-b987-4991-904a-d34bc240cca6)
 * **Query-2:** List only those discounted product details along with discount amount and discounted price.
@@ -77,9 +77,11 @@ https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationship
 * **Query-4:** List those category details which has no product.
 <br>**Output:** ![image](https://github.com/toarnabtrainer/Data_Sources/assets/111301975/6f144d15-1dd3-41e8-828e-574c07f2af75)
   
-**Lookup/Dimension Tables and Data/Fact Tables:**<br>
-Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
-Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
+**Lookup/Dimension Tables and Data/Fact Tables:** <br>
+Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How <br>
+Data Tables or Fact Table will have Foreign Keys, and will contain transactional data <br> <br>
+**Lookup/Dimenation Tables:** Customer (Who), Product (What), Territories (Where), Calendar (When and How) <br>
+**Data/Fact Tables:** Sales, Budget
 
 **Operations on Budget Workbook:** <br>
 * Delete the promoted header
@@ -92,19 +94,27 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 * Change the data type of Month column to Date
 * Select close and apply <br>
 
-**Data Relationships for the Budget Project:**<br>
-* Sales(CustomerKey) -> Customer(CustomerKey)<br>
-* Sales(OrderDate) -> Calendar(Date)<br>
-* Sales(ProductKey) -> Product(ProductKey)<br>
-* Sales(SalesTerritoryKey) -> Territories(SalesTerritoryKey)<br>
-* Budget(ProductKey) -> Product(ProductKey)<br>
-* Budget(Month) -> Calendar(Date)<br>
+**Data Relationships for the Budget Project:** <br>
+* Sales(CustomerKey) -> Customer(CustomerKey) <br>
+* Sales(OrderDate) -> Calendar(Date) <br>
+* Sales(ProductKey) -> Product(ProductKey) <br>
+* Sales(SalesTerritoryKey) -> Territories(SalesTerritoryKey) <br>
+* Budget(ProductKey) -> Product(ProductKey) <br>
+* Budget(Month) -> Calendar(Date) <br>
 
-**Suggested Tables Summaries (After filtering on Year 2016):**<br>
+**Suggested DAX Formulaes for Creating Measures:** <br>
+* MyBudget = SUM(Budget[BudgetAmount])
+* MySales = SUM(Sales[SalesAmount])
+* MyVariance = [MySales] - [MyBudget]
+* MyVariaance% = DIVIDE([MyVariance], [MyBudget], 0)
+* MyComments = IF([MyVariance] < -100000, "Take Care", IF([MyVariance] < 0, "Not OK", "OK"))
+
+**Suggested Tables Summaries (After filtering on Year 2016):** <br>
 *	**Table1:** Calendar[Year], Calendar[Month], Sum of Sales[SalesAmount] 
 *	**Table2:** Calendar[Year], Calendar[Month], Sum of Budget[BudgetAmount]
 *	**Table3:** Territories[Country], Sum of Sales[SalesAmount]
 *	**Table4:** Calendar[Year], Calendar[Month], Sum of Sales[SalesAmount], Sum of Budget[BudgetAmount]
+* **Table4:** Calendat[Year], Calendar[Month], Budget[MySales], Budget[MyBudget], Budget[MyVariance], Budget[MyVariance], Budget[MyVariance%], Budget[MyComment]
 
 <hr>
 
